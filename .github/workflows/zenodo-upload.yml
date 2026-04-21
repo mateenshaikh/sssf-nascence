@@ -23,5 +23,5 @@ jobs:
           # For the very first upload, you can leave the ID blank 
           # in some actions or manually create a blank record in Sandbox 
           # and paste its ID here.
-          zenodo_deposition_id: 'REPLACE_WITH_YOUR_ID'
+          zenodo_deposition_id: '1234567'
           zenodo_publish: false # Keep false while testing!
